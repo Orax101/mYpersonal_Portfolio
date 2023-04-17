@@ -40,9 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat minima praesentium dolorum
-                    facere, saepe accusantium, ex fugit cumque impedit inventore excepturi nisi omnis eveniet?
-                    Assumenda magnam amet culpa placeat accusamus.
+                    As a passionate and innovative creator, I transitioned from architecture to blockchain with a focus on impactful projects. I am dedicated to leaving a lasting impact on the industry with my relentless drive and critical thinking skills.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>

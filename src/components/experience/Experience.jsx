@@ -23,8 +23,8 @@ const Experience = () => {
                         <article className="experience__details">
                           <BsPatchCheckFill className="experience__detail-icon" />
                           <div>
-                            <h4>CSS</h4>
-                            <small className="tet-light">Intermediate</small>
+                          <h4>CSS</h4>
+                          <small className="tet-light">Intermediate</small>
                           </div>
                          
                         </article>
@@ -44,6 +44,7 @@ const Experience = () => {
                           <small className="tet-light">Experienced</small>
                           </div>
                         </article>
+                        
 
                         <article className="eexperience__details">
                           <BsPatchCheckFill className="experience__detail-icon" />

@@ -18,31 +18,31 @@ const Services = () => {
                 <ul className= "service__list">
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Blockchain development and implementation.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Smart contract development and auditing.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Decentralized application (dApp) development.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Initial coin offering (ICO) development and consulting.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Blockchain consulting and strategy development.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Integration of blockchain with existing systems.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Blockchain-based voting systems.</p>
                     </li>
                 </ul>
                 </article>
@@ -55,31 +55,31 @@ const Services = () => {
                 <ul className= "service__list">
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Video tutorial creation.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Written tutorial creation</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Live online tutorial sessions.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>In-person tutorial sessions.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Creation of tutorial materials such as PDFs and infographics.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Tutorial course development and curriculum design.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Language tutorials for non-native speakers.</p>
                     </li>
                 </ul>
                 </article>
@@ -92,31 +92,31 @@ const Services = () => {
                 <ul className= "service__list">
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Construction administration and project management.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Feasibility studies and site analysis.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Detailed design and construction documentation.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Interior design and fit-out.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Sustainable design and green building certification.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Building code compliance and zoning analysis.</p>
                     </li>
                     <li>
                         <BiCheck className="services__list" />
-                        <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                        <p>Building condition assessments and reports.</p>
                     </li>
                 </ul>
                 </article>

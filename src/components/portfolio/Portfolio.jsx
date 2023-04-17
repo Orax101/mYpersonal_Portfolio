@@ -8,14 +8,14 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: "Crypto Currecy Dashboard & Financial Visualization",
+        title: "Decentralized Ethereum Quiz Site",
         github: "https://github.com/Orax101/EthereumQuiz-Site.git",
         demo: "https://ethereum-quiz-site.vercel.app/"
     },
     {
         id: 2,
         image: IMG2,
-        title: "Crypto Currecy Dashboard & Financial Visualization",
+        title: "Basket Ball Game Tracker App",
         github: "https://github.com/Orax101/EthereumQuiz-Site.git",
         demo: "https://ethereum-quiz-site.vercel.app/"
     },
@@ -26,27 +26,7 @@ const data = [
         github: "https://github.com/Orax101/EthereumQuiz-Site.git",
         demo: "https://ethereum-quiz-site.vercel.app/"
     },
-    {
-        id: 4,
-        image: IMG1,
-        title: "Crypto Currecy Dashboard & Financial Visualization",
-        github: "https://github.com/Orax101/EthereumQuiz-Site.git",
-        demo: "https://ethereum-quiz-site.vercel.app/"
-    },
-    {
-        id: 5,
-        image: IMG1,
-        title: "Crypto Currecy Dashboard & Financial Visualization",
-        github: "https://github.com/Orax101/EthereumQuiz-Site.git",
-        demo: "https://ethereum-quiz-site.vercel.app/"
-    },
-    {
-        id: 6,
-        image: IMG1,
-        title: "Crypto Currecy Dashboard & Financial Visualization",
-        github: "https://github.com/Orax101/EthereumQuiz-Site.git",
-        demo: "https://ethereum-quiz-site.vercel.app/"
-    },
+   
 ]
 
 const Portfolio = () => {
